@@ -1,2 +1,4 @@
 # dio-desafio-github
-Bootcamp Inter
+## Bootcamp Inter
+
+Repositório criado para o Desafio de Projeto Git/Github
